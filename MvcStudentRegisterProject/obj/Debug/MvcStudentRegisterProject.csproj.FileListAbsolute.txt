@@ -78,6 +78,5 @@ C:\Users\ozges\source\repos\MvcStudentRegisterProject\MvcStudentRegisterProject\
 C:\Users\ozges\source\repos\MvcStudentRegisterProject\MvcStudentRegisterProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\Users\ozges\source\repos\MvcStudentRegisterProject\MvcStudentRegisterProject\obj\Debug\MvcStudentRegisterProject.csproj.AssemblyReference.cache
 C:\Users\ozges\source\repos\MvcStudentRegisterProject\MvcStudentRegisterProject\obj\Debug\MvcStudentRegisterProject.csproj.CoreCompileInputs.cache
-C:\Users\ozges\source\repos\MvcStudentRegisterProject\MvcStudentRegisterProject\obj\Debug\MvcStudentRegisterProject.csproj.CopyComplete
 C:\Users\ozges\source\repos\MvcStudentRegisterProject\MvcStudentRegisterProject\obj\Debug\MvcStudentRegisterProject.dll
 C:\Users\ozges\source\repos\MvcStudentRegisterProject\MvcStudentRegisterProject\obj\Debug\MvcStudentRegisterProject.pdb

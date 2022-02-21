@@ -4,10 +4,10 @@
     ViewBag.Title = "Index";
 }
 
-<h2>Index</h2>
+<h2>Student List</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("New Register", "Create")
 </p>
 <table class="table">
     <tr>
@@ -19,9 +19,6 @@
         </th>
         <th>
             @Html.DisplayNameFor(model => model.StudentMail)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.StudentPhoto)
         </th>
         <th>
             @Html.DisplayNameFor(model => model.StudentAdress)
@@ -39,9 +36,6 @@
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.StudentMail)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.StudentPhoto)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.StudentAdress)
